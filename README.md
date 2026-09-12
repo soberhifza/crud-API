@@ -1,2 +1,2 @@
-# crud-API and capstone project
+capstone project
 crud-API and capstone project
